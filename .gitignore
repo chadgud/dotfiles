@@ -1,0 +1,4 @@
+.git
+.github
+tmux/.tmux/plugins
+.DS_Store
